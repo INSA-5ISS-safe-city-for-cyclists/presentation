@@ -1,6 +1,6 @@
 # Safe City for Cyclists Presentation
 
-<img src="/Safe_City_For_Cyclists.gif" width="200">
+<img src="/Safe_City_For_Cyclists.gif" width="400">
 
 This repo contains presentation materials used in our course at INSA on this project. It includes a pdf report as well as a PowerPoint presentation.
 
